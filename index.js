@@ -30,6 +30,6 @@ function inc(a, b) {
 
 var x = dec(6,4);
 
-function inc(a, b) {
+function dec(a, b) {
   return a - 1;
 }
