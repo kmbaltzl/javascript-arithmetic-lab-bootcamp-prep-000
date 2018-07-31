@@ -25,11 +25,11 @@ function divide(a, b) {
 var x = inc(6,4);
 
 function inc(a, b) {
-  return a + 1
+  return a + 1;
 }
 
 var x = dec(6,4);
 
 function inc(a, b) {
-  return a - 1
+  return a - 1;
 }
