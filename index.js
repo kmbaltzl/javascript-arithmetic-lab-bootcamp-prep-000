@@ -1,5 +1,5 @@
-var x = myFunction(2,4)
+var x = myFunction(2,4);
 
-function myFunction(a, b){
-  return a + b
+function myFunction(a, b) {
+  return a + b;
 }
