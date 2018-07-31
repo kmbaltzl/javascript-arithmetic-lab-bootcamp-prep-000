@@ -9,3 +9,9 @@ var x = subtract(6,4);
 function subtract(a, b) {
   return a - b;
 }
+
+var x = multiply(6,4);
+
+function multiply(a, b) {
+  return a * b;
+}
