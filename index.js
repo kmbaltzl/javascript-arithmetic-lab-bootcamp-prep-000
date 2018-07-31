@@ -24,6 +24,6 @@ function divide(a, b) {
 
 var x = inc(6);
 
-function inc(a) {
+function inc(a + 1) {
   return a;
 }
