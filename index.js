@@ -1,6 +1,3 @@
-function Add(){
-  a = 6
-  b = 7
-  x = a + b 
-  return x
-}
+var x = myFunction(2,4)
+
+function myFunction
