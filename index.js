@@ -47,7 +47,8 @@ function makeInt(a, b) {
 }
 
 var x = makeInt(6,4);
+var isNAN = isNaN
 
 function makeInt(a, b) {
-  return parseInt('sldkjflksjf')
+  parseInt('sldkjflksjf')
 }
