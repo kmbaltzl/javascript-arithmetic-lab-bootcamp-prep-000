@@ -34,3 +34,8 @@ function dec(a, b) {
   return a - 1;
 }
 
+var x = makeInt(6,4);
+
+function makeInt(a, b) {
+  return parseInt(a);
+}
