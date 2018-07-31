@@ -46,8 +46,3 @@ function makeInt(a, b) {
   return parseInt(a, 10);
 }
 
-var x = isNaN(6,4);
-
-function isNaN(a, b) {
-  return parseInt(a);
-}
