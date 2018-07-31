@@ -1,6 +1,6 @@
-function add(){
-  a = Math.floor(Math.random() * 1000)
-  b = Math.floor(Math.random() * 1000)
+function Add(){
+  a = 6
+  b = 7
   x = a + b 
   return x
 }
