@@ -39,3 +39,9 @@ var x = makeInt(6,4);
 function makeInt(a, b) {
   return parseInt(a);
 }
+
+var x = makeInt(6,4);
+
+function makeInt(a, b) {
+  return parseInt(a, 10);
+}
