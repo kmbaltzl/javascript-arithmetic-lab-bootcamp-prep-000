@@ -46,3 +46,8 @@ function makeInt(a, b) {
   return parseInt(a, 10);
 }
 
+var x = preserveDecimal(6,4);
+
+function preserveDecimal(a, b) {
+  return parseFloat(a);
+}
